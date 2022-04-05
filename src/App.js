@@ -4,6 +4,8 @@ function App() {
   return (
     <div>
       App Placeholder
+      <input />
+      <input type="button" value="submit" />
     </div>
   );
 }
